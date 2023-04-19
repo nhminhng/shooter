@@ -7,6 +7,7 @@ import button
 pygame.init()
 mixer.init()
 
+#constant
 SCREEN_WIDTH = 800
 SCREEN_HEIGHT = int (0.8 * SCREEN_WIDTH)
 
